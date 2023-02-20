@@ -1,0 +1,42 @@
+C:\Users\Вадим\source\repos\CW - Blowfish\bin\Debug\CW - Blowfish.exe.config
+C:\Users\Вадим\source\repos\CW - Blowfish\bin\Debug\CW - Blowfish.exe
+C:\Users\Вадим\source\repos\CW - Blowfish\bin\Debug\CW - Blowfish.pdb
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.csprojAssemblyReference.cache
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\MainWindow.g.cs
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\App.g.cs
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish_MarkupCompile.cache
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish_MarkupCompile.lref
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\MainWindow.baml
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.g.resources
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW___Blowfish.Properties.Resources.resources
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.csproj.GenerateResource.cache
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.exe
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.pdb
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\App.baml
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\Instructions.g.cs
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\Instructions.baml
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\About.g.cs
+C:\Users\Вадим\source\repos\CW - Blowfish\obj\Debug\About.baml
+C:\Users\SVS1984\source\repos\CW - Blowfish\bin\Debug\CW - Blowfish.exe.config
+C:\Users\SVS1984\source\repos\CW - Blowfish\bin\Debug\CW - Blowfish.exe
+C:\Users\SVS1984\source\repos\CW - Blowfish\bin\Debug\CW - Blowfish.pdb
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.csprojAssemblyReference.cache
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\About.g.cs
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\Instructions.g.cs
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\MainWindow.g.cs
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\App.g.cs
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish_MarkupCompile.cache
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish_MarkupCompile.lref
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\App.baml
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\About.baml
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\Instructions.baml
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\MainWindow.baml
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.g.resources
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW___Blowfish.Properties.Resources.resources
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.csproj.GenerateResource.cache
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.csproj.CoreCompileInputs.cache
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.exe
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\CW - Blowfish.pdb
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\Authentification.g.cs
+C:\Users\SVS1984\source\repos\CW - Blowfish\obj\Debug\Authentification.baml
